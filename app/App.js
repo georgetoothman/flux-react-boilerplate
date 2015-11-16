@@ -35,9 +35,12 @@ var App = React.createClass({
   },
   renderMessages: function (message) {
     return (
-      <div>{message}</div>
+      <div>
+        {message}
+      </div>
     );
-  },
+  },  
+
 	render: function() {
 		return (
 			<div>

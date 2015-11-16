@@ -6,6 +6,7 @@ Read more about FLUX over at [Facebook Flux](http://facebook.github.io/flux/) an
 
 ### Development
 * Run `npm install`
+* Run `sudo npm install --global gulp`
 * Run `gulp`
 * Start a webservice in the `build` folder, f.ex. `python -m SimpleHTTPServer`
 * Go to `localhost:8000` to display the app

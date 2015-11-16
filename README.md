@@ -24,3 +24,7 @@ Read more about FLUX over at [Facebook Flux](http://facebook.github.io/flux/) an
 * **styles/**: Where you put your css files
 * **specs/**: Where you put your test files
 * **gulpfile**: Gulp configuration
+
+### Developer
+
+christianalfoni/flux-react-boilerplate
